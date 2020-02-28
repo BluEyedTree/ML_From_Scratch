@@ -3,6 +3,7 @@
 
 The goal is to have every algorithm written as clearly and concisely as possible. Hopefully, this will be a useful resource for novice machine learning enthusiasts! 
 
+Each file is named after the algorithm that it contains. 
 
 ## Usage example
 
