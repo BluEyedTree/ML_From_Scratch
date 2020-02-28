@@ -1,14 +1,14 @@
 # ML_From_Scratch
-> A bunch of machine learning models and algorithms written from scratch (or scrattish in some cases)
+> A bunch of machine learning models and algorithms written from scratch (or scrattish in some cases).
 
-
+The goal is to have every algorithm written as clearly and concisely as possible. Hopefully, this will be a useful resource for novice machine learning enthusiasts! 
 
 
 ## Usage example
 
 python KNN.py
 
-Running any files should give some sensible output based on a toy dataset from sklearn.
+Running any file should give some sensible output based on a toy dataset from sklearn.
 
 ## Development setup
 
